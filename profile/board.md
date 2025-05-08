@@ -6,3 +6,4 @@
 * Starr Portice
 * Kristen Belcher
 * Nicholas Panchy
+* Tim Wade
